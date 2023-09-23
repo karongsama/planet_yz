@@ -1,0 +1,4 @@
+repository "planet_yz@karongsama@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
