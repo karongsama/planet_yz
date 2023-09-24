@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bQHqFGkrNWyms9a8UNOiqD+KZx7mCt3UolGCh+eXBaFCLoC0rC8vQBzaiipWYeZ874X//hugrApq/zeD3cRHwA==",
+  "dgSpecHash": "m69u1uuokmk96v1wqZZAna/ScdkTPCEYry5QC08BjjSOzo+dIsAyrLigMySA+iNxwXklm9SpIsvnwNc1FfEPWQ==",
   "success": true,
-  "projectFilePath": "d:\\coding\\unity\\planet\\planet_yz\\Unity.EditorCoroutines.Editor.csproj",
+  "projectFilePath": "d:\\coding\\unity\\planet\\planet_yz\\Unity.VisualStudio.Editor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

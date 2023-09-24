@@ -88,9 +88,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\coding\\unity\\planet\\planet_yz\\Unity.EditorCoroutines.Editor.csproj",
-      "projectName": "Unity.EditorCoroutines.Editor",
-      "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\Unity.EditorCoroutines.Editor.csproj",
+      "projectUniqueName": "d:\\coding\\unity\\planet\\planet_yz\\Unity.VisualStudio.Editor.csproj",
+      "projectName": "Unity.VisualStudio.Editor",
+      "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\Unity.VisualStudio.Editor.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "d:\\coding\\unity\\planet\\planet_yz\\obj\\",
       "projectStyle": "PackageReference",
