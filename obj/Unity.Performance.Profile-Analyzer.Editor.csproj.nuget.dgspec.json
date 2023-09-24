@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\coding\\unity\\planet\\planet_yz\\Unity.Performance.Profile-Analyzer.Editor.csproj": {}
+  },
+  "projects": {
+    "d:\\coding\\unity\\planet\\planet_yz\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\coding\\unity\\planet\\planet_yz\\Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "projectName": "Unity.Performance.Profile-Analyzer.Editor",
+        "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "d:\\coding\\unity\\planet\\planet_yz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.TestRunner.csproj"
+              },
+              "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.UI.csproj": {
+                "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.UI.csproj"
+              },
+              "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj"
+              },
+              "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.UI.csproj": {
+                "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "d:\\coding\\unity\\planet\\planet_yz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.UI.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "d:\\coding\\unity\\planet\\planet_yz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEditor.TestRunner.csproj"
+              },
+              "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj"
+              },
+              "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.UI.csproj": {
+                "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "d:\\coding\\unity\\planet\\planet_yz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "d:\\coding\\unity\\planet\\planet_yz\\UnityEngine.UI.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "d:\\coding\\unity\\planet\\planet_yz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
